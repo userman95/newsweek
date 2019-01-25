@@ -1,20 +1,3 @@
-.bg-color{
-    background-color: black;
-    height: 100px;
-    width: 371px;
-    margin: 5px;
-}
-
-.bg-color2{
-    background-color: green;
-    /* height: 100px;
-    width: 100px; */
-    margin: 5px;
-}
-
-.bg-color3{
-    background-color: red;
-    height: 300px;
-    width: 100px;
-    margin: 5px;
+body{
+    padding-top: 70px;
 }
