@@ -4,9 +4,7 @@ body{
   font-family: Arial,Helvetica,sans-serif;
   margin:0 ;
 }
-.container-fluid, .container {
-    max-width: 1310px;
-}
+
 .header-title{
   background-color: #f72210;
   padding: 16px 0 4px 7px;
@@ -262,10 +260,13 @@ h1, h2, h3, h4, h5, h6{
   font: bold 16px/16px "Roboto Condensed",sans-serif;
 }
 
-.container-fluid{
-  background-color: white;
+.main{
   padding-left: 30px;
   padding-right: 30px;
+}
+
+.container-fluid{
+  background-color: white;
   max-width: 1310px;
 }
 
