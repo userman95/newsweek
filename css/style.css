@@ -678,6 +678,7 @@ center{
   font-weight: 600;
   font-size: 13px;
   letter-spacing: -1px;
+  margin-top: 13px;
 }
 
 /* Media Queries */
@@ -690,7 +691,6 @@ center{
   .small-hd{
     display: block;
     background-color: #f72210;
-    padding: 10px 15px;
     position: relative;
   }
 
@@ -709,7 +709,8 @@ center{
   }
 
   .subscribe-btn{
-    padding: 6px;
+    margin: 7px 0;
+    padding: 0 6px;
   }
 
   .btns-container{
