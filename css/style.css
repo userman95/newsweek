@@ -630,8 +630,12 @@ right: -4px;
   float: left;
   margin-right: 20px;
 }
-center{
+.center{
   margin-top: 87px;
+}
+.center a:hover{
+  text-decoration: none;
+  color: #fff;
 }
 .subscribe-button{
   background-color: #f72210;
@@ -641,6 +645,7 @@ center{
   text-transform: uppercase;
   margin-bottom: 15px;
 }
+
 /*MOST READ SECTION*/
 .list-group-item::before{
   border-top:1px solid #ddd;
